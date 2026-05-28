@@ -1,6 +1,6 @@
 # improvement
 
-A simple Python calculator with basic arithmatic operations.
+A simple Python calculator with basic arithmetic operations.
 
 ## Functions
 
